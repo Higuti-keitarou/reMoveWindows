@@ -1,0 +1,2 @@
+# reMoveWindows
+Windowsの特定のフォルダを削除するプログラム
